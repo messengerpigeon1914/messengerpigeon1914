@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @messengerpigeon1914
 - 👀 I’m interested in ... learning to simulate nonlinear biological phenomenom and automating the way we conduct biological research
-- 🌱 I’m currently learning ... python and how to use a computer using bash
-- 💞️ I’m looking to collaborate on ... any automation/bio-related project but that might have to wait till I get better at coding :)
+- 🌱 I’m currently learning ... PyTorch and how to use a computer using bash
+- 💞️ I’m looking to collaborate on ... any automation/bio-related projects :)
 - 📫 How to reach me ... rbmartinez711@gmail.com
 
 <!---
